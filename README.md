@@ -1,4 +1,4 @@
-# itaAI
+# itsAI
 
 ## Informazioni di base
 
